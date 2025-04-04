@@ -29,11 +29,3 @@ python + kivy
 ## Usage
 
 soon
-
-### Creating A Pull Request
-
-
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/DanMotive/YourLauncher/blob/main/LICENSE.md) for more information.
